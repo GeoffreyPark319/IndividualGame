@@ -1,0 +1,1 @@
+For sound effects in this project, I have implemented 3 so far, those being an ambient world sound heard throughout the level, a hover sound that emenates from my enemies, and lastly a firing sound that plays whenevera projectile is fired from the player's weapon, though I plan to edit how that works specifically at a later point.
