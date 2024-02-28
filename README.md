@@ -1,1 +1,3 @@
 For sound effects in this project, I have implemented 3 so far, those being an ambient world sound heard throughout the level, a hover sound that emenates from my enemies, and lastly a firing sound that plays whenevera projectile is fired from the player's weapon, though I plan to edit how that works specifically at a later point.
+
+For my most recent changes, I created a good amount of playspace in the game, as well as adding 2 audio reverb zones, the first being in a courtyard area where the player spawns in, while the other is in an unfinished area that will be "indoors" around where the enemies will normally spawn in.
